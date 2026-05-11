@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+python-multipart
+torch
+transformers
+openai-whisper
+sentence-transformers
+keybert
+pydantic
+yt-dlp
+imageio-ffmpeg
+youtube-transcript-api
